@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsComposite", "CsComposite\CsComposite.csproj", "{9B15DA06-E045-40DE-BFC6-2915026679B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{51566993-BA49-445C-9597-073CB6EB5024}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsCompositeTests", "CsCompositeTests\CsCompositeTests.csproj", "{37ABED9D-A46B-4763-8675-DF47B34B3C68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B15DA06-E045-40DE-BFC6-2915026679B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B15DA06-E045-40DE-BFC6-2915026679B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B15DA06-E045-40DE-BFC6-2915026679B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B15DA06-E045-40DE-BFC6-2915026679B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37ABED9D-A46B-4763-8675-DF47B34B3C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37ABED9D-A46B-4763-8675-DF47B34B3C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37ABED9D-A46B-4763-8675-DF47B34B3C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37ABED9D-A46B-4763-8675-DF47B34B3C68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41726F6F-46DC-45F1-851A-9CBFC7F614B1}
+	EndGlobalSection
+EndGlobal
